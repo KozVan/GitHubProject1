@@ -1,0 +1,1 @@
+# float -- simmilar to int (integer), but it let you use not full numbers: x = float(3.14). If you try to do the same this as float do, but replace it with int, then int just trow away not full part: x = int(3.14) print(x) (it  will print 3).
